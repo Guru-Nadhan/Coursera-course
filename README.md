@@ -1,2 +1,2 @@
 # Coursera-course
-Course on HTML, CSS and JS . 
+Course on HTML5, CSS3 and JS . 
