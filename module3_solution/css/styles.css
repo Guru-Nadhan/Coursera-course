@@ -1,3 +1,39 @@
-nav{
-  background-color: blue;
+#header-nav{
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+  min-height: 60px;
+}
+h1{
+  margin-top:0;
+  color: rgb(28, 44, 135);
+}
+.navbar-brand a:hover{
+  text-decoration: none;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+  border:1.5px solid rgb(28, 44, 135);
+}
+#menu-list{
+  margin-top: 10px;
+}
+#menu-list a{
+  color:rgb(28, 44, 135);
+  text-align:center;
+}
+#menu-list a:hover{
+  background-color:rgb(28, 44, 135);
+  color:white;
+}
+.row > div{
+  padding-bottom: 10px;
+  background-color:rgb(28, 44, 135);
+  color:white;
+}
+h2{
+  color:rgb(28, 44, 135);
+}
+h3{
+  font-weight: bold;
+  color: yellow;
 }
